@@ -5,7 +5,7 @@
 }
             html {
                 background: #bbbbbb;
-                background: url(https://media4.giphy.com/media/10zxDv7Hv5RF9C/100.webp?cid=ecf05e475pcqc1cni2s2j4twflulzg7egp3v474s1n1248x7&ep=v1_gifs_search&rid=100.webp&ct=g);
+                background: url(tarjeta-de-circuito-futurista-abstracta-fondo-color-azul-alta-tecnología-informática-concepto-digital-vector-ilustración-del-171995839.webp);
                 background-repeat: repeat;
                 background-attachment: fixed;
                 background-blend-mode: overlay;
@@ -28,7 +28,7 @@
                     margin-top: 150px;
                     margin-bottom: 50px;
                     font-family: "Anta-Regular", sans-serif;
-                    border:10px groove #a9f41e ;
+                    border:10px groove #0362f1 ;
                     
                     
                     
@@ -37,7 +37,7 @@
             }
             h1{
                 text-align: center;
-                width: 100%;
+                width: 100%;  
                 font-family: "Anta-Regular", sans-serif;
                 background-color: darkgrey;
                 font-size: 50px;
@@ -105,3 +105,50 @@
               background-repeat: no-repeat;
               position: absolute;
             }
+
+            .extra4{ 
+              background-size: 450px;
+              width: 1870px;
+              height: 900px;
+              background-image: url(klipartz.com\ \(4\).png);
+              z-index: 2;
+              background-position: center;
+              right: 460px;
+              display: flex;
+              top: 2000px;
+              background-repeat: no-repeat;
+              position: absolute;
+            }
+
+            .extra5{ 
+              background-size: 400px;
+              width: 350px;
+              height: 950px;
+              background-image: url(klipartz.com\ \(5\).png);
+              z-index: 2;
+              background-position: center;
+              right: 250px;
+              display: flex;
+              top: 800px;
+              background-repeat: no-repeat;
+              position: absolute;
+            }
+
+            .extra6{ 
+              background-size: 400px;
+              width: 350px;
+              height: 950px;
+              background-image: url( klipartz.com\ \(7\).png).png);
+              z-index: 2;
+              background-position: center;
+              right: 250px;
+              display: flex;
+              top: 800px;
+              background-repeat: no-repeat;
+              position: absolute;
+            }
+
+
+
+
+
