@@ -1,10 +1,107 @@
-body {
-    font-family: 'Courier New', Courier, monospace;
-    background-color: burlywood;
 
+@font-face {
+  font-family: Anta-Regular;
+  src: url(Anta-Regular.ttf);
 }
+            html {
+                background: #bbbbbb;
+                background: url(https://media4.giphy.com/media/10zxDv7Hv5RF9C/100.webp?cid=ecf05e475pcqc1cni2s2j4twflulzg7egp3v474s1n1248x7&ep=v1_gifs_search&rid=100.webp&ct=g);
+                background-repeat: repeat;
+                background-attachment: fixed;
+                background-blend-mode: overlay;
+                
+                min-height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                color: white;
+              }
 
+            body{
+                    background: #343434;
+                    width: 100vw;
+                    max-width: 650px;
+                    text-align: center;
+                    border-radius: 20px;
+                    box-shadow: 0 0 10px aliceblue;
+                    padding: 25px;
+                    margin-top: 150px;
+                    margin-bottom: 50px;
+                    font-family: "Anta-Regular", sans-serif;
+                    border:10px groove #a9f41e ;
+                    
+                    
+                    
+                    
+                    
+            }
+            h1{
+                text-align: center;
+                width: 100%;
+                font-family: "Anta-Regular", sans-serif;
+                background-color: darkgrey;
+                font-size: 50px;
+                background-image: url(klipartz.com\ \(2\).png);
+                background-size: 200px;
+                width: 250px;
+                
 
-.sumary{
-    float: center;
-}
+                
+            
+            }
+            img {
+                margin-top: -125px;
+                width: 200px;
+                height: 200px;
+                border-radius: 110px;
+                object-fit: cover;
+                border: 10px #e39942 solid;
+              }
+
+            h2{
+              font-family: "Anta-Regular", sans-serif;
+            }
+
+            .extra1{ 
+              background-size: 450px;
+              width: 1555px;
+              height: 600px;
+              background-image: url(klipartz.com\ \(1\).png);
+              z-index: 2;
+              background-position: center;
+              right: 100;
+              display: flex;
+              top: 1800px;
+              background-repeat: no-repeat;
+              position: absolute;
+                
+            
+            }
+
+            .extra2{ 
+              background-size: 450px;
+              width: 700px;
+              height: 700px;
+              background-image: url(klipartz.com\ \(3\).png);
+              z-index: 2;
+              background-position: center;
+              right: 460px;
+              display: flex;
+              top: -80px;
+              background-repeat: no-repeat;
+              position: absolute;
+            }
+
+            .extra3{ 
+              background-size: 450px;
+              width: 1870px;
+              height: 900px;
+              background-image: url(pngwing.com.png);
+              z-index: 2;
+              background-position: center;
+              right: 460px;
+              display: flex;
+              top: 600px;
+              background-repeat: no-repeat;
+              position: absolute;
+            }
